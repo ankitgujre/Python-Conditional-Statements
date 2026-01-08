@@ -7,7 +7,7 @@
 # 6 - Sat
 # 7 - Sun
 
-choose = int(input("Enter Number between 1 to 7: "))
+choose = (input("Enter Number between 1 to 7: "))
 
 if(choose == '1'):
     print("Monday")
